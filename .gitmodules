@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "geeM"]
+	path = geeM
+	url = https://github.com/cran/geeM
+	shallow = true
+	registered = true
+[submodule "SOR"]
+	path = SOR
+	url = https://github.com/cran/SOR
+	shallow = true
+	registered = true
+[submodule "titeIR"]
+	path = titeIR
+	url = https://github.com/cran/titeIR
+	shallow = true
+	registered = true
