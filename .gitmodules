@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "geeM"]
-	path = geeM
-	url = https://github.com/cran/geeM
 [submodule "SOR"]
 	path = SOR
 	url = https://github.com/cran/SOR
+[submodule "geeM"]
+	path = geeM
+	url = https://github.com/cran/geeM
 [submodule "titeIR"]
 	path = titeIR
 	url = https://github.com/cran/titeIR
